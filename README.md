@@ -13,7 +13,7 @@ It gives you full control about every single aspect of your Redis management exp
 <p align="center">
 
 
-<a href="https://apps.apple.com/us/app/racompass-key-value-manager/id1538380685">
+<a href="https://apps.apple.com/app/id1538380685">
 <img src="https://user-images.githubusercontent.com/43163425/148595788-eb0b3e2c-ee9e-4bb6-a995-3f28dbbe4685.png" height="48">
 </a>
 </p>
