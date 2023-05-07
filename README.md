@@ -10,16 +10,35 @@ It gives you full control about every single aspect of your Redis management exp
 
 ![app-front](https://user-images.githubusercontent.com/43163425/148594801-969ee19b-5d1b-4c72-98cb-cc3e27344899.png)
 
-<p align="center">
+### Racompass is available for laptops and desktops running macOS, Windows, or Linux.
 
-
+<p>
 <a href="https://apps.apple.com/app/id1538380685">
 <img src="https://user-images.githubusercontent.com/43163425/148595788-eb0b3e2c-ee9e-4bb6-a995-3f28dbbe4685.png" height="48">
 </a>
+<a href="https://www.microsoft.com/store/productId/9N24462L6DTX">
+<img src="https://user-images.githubusercontent.com/43163425/236679976-cb51d496-7579-4040-a15e-10f06bc818a8.png" height="48">
+</a>
+<a href="https://snapcraft.io/racompass">
+<img src="https://user-images.githubusercontent.com/43163425/236679960-315ed86d-d0a4-44b7-be20-6db18aa79825.png" height="48">
+</a>
 </p>
 
+
 ## What's New:
-Racompass now has built-in support for Redis official modules since version 1.1.0:
+
+1.2.0:
+
+- Cross-Platform for Mac, Windows & Linux
+- Dragonfly (https://www.dragonflydb.io)
+- Render (https://render.com)
+- Upstash (https://upstash.com)
+- Redis 7 or above
+- Redis Stack
+- Redis Function
+- Light/Dark Theme
+
+1.1.0:
 
 - Support Key Live Update (Creation/Deletion Only)
 - Support GEO Search in Sorted-Set Type
@@ -36,6 +55,12 @@ Racompass now has built-in support for Redis official modules since version 1.1.
 
 ## Features
 The most complete and straightforward GUI for your manage Redis data needs.
+
+
+### Locales
+- English
+- 简体中文
+- 繁體中文
 
 
 ### Connection Modes
@@ -59,17 +84,7 @@ The most complete and straightforward GUI for your manage Redis data needs.
 - Gears
 - AI
 
-
-## FAQ
-
-### What are the limitations of the free trial?
-We offer fully functional FREE trial of Racompass. We can change the limitations without any notifications in the future releases.
-
-### How do I apply for a refund?
-Refunds are handled by Apple Support – you can learn more about requesting a refund [here](https://support.apple.com/HT204084).
-
-
-### Support and feature requests?
+## Support and feature requests?
 Any issues, bugs, feature requests and ideas. Please submit on [Github](https://github.com/racompass/racompass/issues).
 
 To submit:
